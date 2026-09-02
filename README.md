@@ -9,9 +9,10 @@ Built on a pure Sass/SCSS engine. No runtime. No config bloat. No `md:` breakpoi
 [![npm version](https://img.shields.io/npm/v/zeus-css?color=2f6bff&label=npm&style=flat-square)](https://www.npmjs.com/package/zeus-css)
 [![npm downloads](https://img.shields.io/npm/dm/zeus-css?color=2f6bff&style=flat-square)](https://www.npmjs.com/package/zeus-css)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/zeus-css?color=ff8a00&style=flat-square)](https://bundlephobia.com/package/zeus-css)
+![license](https://img.shields.io/npm/l/zeus-css?color=2f6bff&style=flat-square)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff8a00?style=flat-square)](#contributing)
 
-**[zeuscss.com](https://zeuscss.com) · [npm](https://www.npmjs.com/package/zeus-css)**
+**[Website](https://zeuscss.com) · [npm](https://www.npmjs.com/package/zeus-css) · [Report a bug](https://github.com/zeus-css/zeus-css-framework/issues)**
 
 </div>
 
@@ -29,7 +30,7 @@ Most CSS frameworks make you pick a side: a heavyweight utility system that emit
 | 🪶 **Zero-Emission SCSS API** | `@use "zeus-css/zeus" as *;` exposes every mixin, function, and token — **zero bytes of duplicate CSS emitted** — thanks to Sass `@forward`. |
 | 🎨 **OKLCH-Native Theming** | Define your palette once in perceptually-uniform OKLCH; light/dark variants and states derive from it automatically. |
 | 🧱 **Cascade-Layered by Design** | Everything ships inside `@layer reset, base, tokens, components, utilities` — your overrides win without a single `!important`. |
-| 🤖 **AI-Agent Ready** | Ships with [`llms.txt`](./llms.txt), a generated [cheatsheet](./cheatsheet.md), and [`AGENTS.md`](./AGENTS.md) so Claude Code, Cursor, Copilot & friends write on-token Zeus CSS instead of inventing hex codes. |
+| 🤖 **AI-Agent Ready** | Ships with `llms.txt`, a generated cheatsheet, and `AGENTS.md` so Claude Code, Cursor, Copilot & friends write on-token Zeus CSS instead of inventing hex codes. |
 
 <br>
 
@@ -204,10 +205,10 @@ module.exports = {
 
 | Doc | What it's for |
 |---|---|
-| [`API.md`](./API.md) | The semver contract — what's public and stable |
-| [`cheatsheet.md`](./cheatsheet.md) | Full, auto-generated mixin/class catalog |
-| [`llms.txt`](./llms.txt) | Machine-readable reference for AI coding agents |
-| [`AGENTS.md`](./AGENTS.md) | Rules for AI agents contributing to Zeus-powered codebases |
+| `API.md` | The semver contract — what's public and stable |
+| `cheatsheet.md` | Full, auto-generated mixin/class catalog |
+| `llms.txt` | Machine-readable reference for AI coding agents |
+| `AGENTS.md` | Rules for AI agents contributing to Zeus-powered codebases |
 
 <br>
 
@@ -217,10 +218,10 @@ Issues and PRs are welcome at [zeus-css/zeus-css-framework](https://github.com/z
 
 ## License
 
-[MIT](./LICENSE) © [Stavros Kosmas Lazaris](https://zeuscss.com)
+MIT © [Stavros Kosmas Lazaris](https://www.stavroslazaris.gr/)
 
 <br>
 
 <div align="center">
-<sub>⚡ built with an unreasonable amount of care for clamp() ⚡</sub>
+<span>⚡ struck by lightning, never by <code>!important</code> ⚡</span>
 </div>
