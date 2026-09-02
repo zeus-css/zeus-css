@@ -9,10 +9,9 @@ Built on a pure Sass/SCSS engine. No runtime. No config bloat. No `md:` breakpoi
 [![npm version](https://img.shields.io/npm/v/zeus-css?color=2f6bff&label=npm&style=flat-square)](https://www.npmjs.com/package/zeus-css)
 [![npm downloads](https://img.shields.io/npm/dm/zeus-css?color=2f6bff&style=flat-square)](https://www.npmjs.com/package/zeus-css)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/zeus-css?color=ff8a00&style=flat-square)](https://bundlephobia.com/package/zeus-css)
-[![license](https://img.shields.io/npm/l/zeus-css?color=2f6bff&style=flat-square)](./LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff8a00?style=flat-square)](#contributing)
 
-**[Website](https://zeuscss.com) · [npm](https://www.npmjs.com/package/zeus-css)**
+**[zeuscss.com](https://zeuscss.com) · [npm](https://www.npmjs.com/package/zeus-css)**
 
 </div>
 
