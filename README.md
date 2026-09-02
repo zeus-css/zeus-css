@@ -12,7 +12,7 @@ Built on a pure Sass/SCSS engine. No runtime. No config bloat. No `md:` breakpoi
 [![license](https://img.shields.io/npm/l/zeus-css?color=2f6bff&style=flat-square)](./LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff8a00?style=flat-square)](#contributing)
 
-**[Website](https://zeuscss.com) · [npm](https://www.npmjs.com/package/zeus-css) · [API Reference](./API.md) · [Cheatsheet](./cheatsheet.md) · [Report a bug](https://github.com/zeus-css/zeus-css-framework/issues)**
+**[Website](https://zeuscss.com) · [npm](https://www.npmjs.com/package/zeus-css)**
 
 </div>
 
